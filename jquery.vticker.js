@@ -1,8 +1,13 @@
-/*
-* vertical news ticker
-* Tadas Juozapaitis ( kasp3rito [eta] gmail (dot) com )
-* http://www.jugbit.com/jquery-vticker-vertical-news-ticker/
-*/
+/*!
+ * jQuery Vertical News Ticker Plugin
+ *
+ * http://www.jugbit.com/jquery-vticker-vertical-news-ticker/
+ * http://github.com/kasp3r/vTicker
+ *
+ * Copyright 2013 Tadas Juozapaitis
+ * Released under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ */
 (function($){
 $.fn.vTicker = function(options) {
 	var defaults = {
